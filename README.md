@@ -4,3 +4,4 @@ This is the sample application for
 by [Michael Hartl](http://michaelhartl.com/).
 # tutorial
 # tutorial
+# sample_app
