@@ -6,3 +6,4 @@ by [Michael Hartl](http://michaelhartl.com/).
 # tutorial
 # sample_app
 # sample_app
+# sample_app
